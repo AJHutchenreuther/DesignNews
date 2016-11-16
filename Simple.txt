@@ -1,1 +1,2 @@
 This is a simple text file to test revisions of GitHub project file on remote client.
+Another revision.
