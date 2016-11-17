@@ -10,3 +10,4 @@ This respository contains steps that are explained in the next two presentations
 
 New findings for me (that were not in the presentation):
 To delete a repository, open it, go to Settings, and at bottom of page select 'Delete this Repository'
+To understand the difference between Fork and Branch, Google search GitHub fork vs. branch!
