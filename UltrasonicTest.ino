@@ -1,5 +1,4 @@
 /* Ping))) Sensor
-Branch from master of DesignNews - revised comment here.
 
 This sketch reads a PING))) ultrasonic rangefinder and returns the
 distance to the closest object in range. To do this, it sends a pulse
