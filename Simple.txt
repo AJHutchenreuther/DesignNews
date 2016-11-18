@@ -3,3 +3,4 @@ Another revision.
 Yet another revision for Simple Change branch.
 This is modified in TestBranch on GitHub Desktop
 Another change to TestBranch version
+This line is created with UltraEdit32.
